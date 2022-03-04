@@ -1,10 +1,10 @@
 package com.ivory.TesteEstagio.CampoMinado;
 
 import lombok.Getter;
-import lombok.Setter;
+//import lombok.Setter;
 
 @Getter
-@Setter
+//@Setter
 public enum StatusTipo {
 		
 	Aberto(0),
